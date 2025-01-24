@@ -15,6 +15,8 @@ public class Git_20241 {
      */
     public static void main(String[] args) {
          System.out.println("Endrius Alberto - 20241"); 
+         // Calling the methode NameTransformer
+        NameTransformer.main(args);
     }
     
 }
